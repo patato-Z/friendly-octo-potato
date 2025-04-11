@@ -1,1 +1,1 @@
-# sigir25-drama
+# recsys2025-sprm
